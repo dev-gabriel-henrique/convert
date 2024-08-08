@@ -13,8 +13,9 @@ const result = document.getElementById("result")
 
 //Manipulando o input amount para receber somente números.
 amount.addEventListener("input", () => {
-  const hasCharactersRegex = /\D+/g;
+  const hasCharactersRegex = /[a-zA-z]+/g;
   amount.value = amount.value.replace(hasCharactersRegex, "");
+  amount.value = amount.value.replace(",", ".")
 });
 
 // Capturando o evento de submit(enviar) do formulário.
