@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[Projeto](###projeto)  |  [Aprendizados](###aprendizados)  |  [Tecnologias](###tecnologias)
+[Projeto](#projeto)  |  [Aprendizados](#aprendizados)  |  [Tecnologias](#tecnologias)
 </div>
 
 ![imagem de capa do projeto](./img/pgn-inicial.png)
