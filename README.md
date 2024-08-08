@@ -3,12 +3,13 @@
 ## <center> CONVERSOR DE MOEDAS (CONVERT) <br> <br> ![logo convert](./img/logo.svg)
 </div>
 
-### <center> Este conversor foi feito junto as aulas de Javascript da Rocketseat. </center>
+### <div align = "center"> Este conversor foi feito junto as aulas de Javascript da Rocketseat. </div>
 ---
-<center>
 
-[Projeto](###-projeto)  |  [Aprendizados](###-aprendizados)  |  [Tecnologias](###-tecnologias)
-</center>
+<div align="center">
+  
+[Projeto](###projeto)  |  [Aprendizados](###aprendizados)  |  [Tecnologias](###tecnologias)
+</div>
 
 ![imagem de capa do projeto](./img/pgn-inicial.png)
 
